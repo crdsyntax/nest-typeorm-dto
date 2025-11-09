@@ -1,12 +1,12 @@
 {
   "name": "@crdsyntax/nest-typeorm-dto",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "generate swagger dto with basic interface using nestjs, typeorm, swagger",
   "license": "ISC",
   "author": "crdsyntax",
   "private": false,
   "main": "index.js",
   "bin": {
-    "generate:module": "./bin/generate-dto.js"
+    "module": "bin/generate-dto.js"
   }
 }
